@@ -1,5 +1,5 @@
 ## Idea
-Using yfinance we want find the best portfolio given an upper bound risk, and a list of stocks.
+Using yfinance we want to find the best portfolio given an upper bound risk, and a list of stocks.
 
 ## Functions
 
